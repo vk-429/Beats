@@ -1168,6 +1168,12 @@ input{
     /* No Changes */
     
     /* Header */
+
+    body{
+        min-width: 300px;
+        overflow-x:hidden ;
+        overflow-y: scroll;
+    }
     [alt="Beats Logo"]{
         height: 15px;
     }

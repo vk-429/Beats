@@ -12,6 +12,7 @@ body{
     padding:0 0 0 10%;
     color: #fff;
     min-width: 300px;
+    max-width: 1600px;
     overflow-x: hidden;
     overflow-y: scroll;
     font-family: 'Poppins', sans-serif;
@@ -1295,7 +1296,7 @@ input{
     /* Lowercase */
     
     .lowercase{
-        padding: 20px 0px;
+        padding: 20px 30px;
         border-radius: 5px;
         gap: 30px;
         width: 65vw;

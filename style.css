@@ -1181,11 +1181,6 @@ input{
     
     /* Header */
 
-    body{
-        min-width: 300px;
-        overflow-x:hidden ;
-        overflow-y: scroll;
-    }
     [alt="Beats Logo"]{
         height: 15px;
     }
@@ -1443,5 +1438,22 @@ input{
     
 }
 
-@media(max-)
+@media(max-width:300px)
+{
+    body{
+        overflow: scroll;
+    }
+    .upperright nav ul {
+        gap: 10px;
+    }
+    .onear-logo img{
+        height: 20px;
+    }
+    .lowercase{
+        padding: 10px 20px;
+    }
+    .beats3{
+        width: 100px;
+    }
+}
 

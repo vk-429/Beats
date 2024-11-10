@@ -10,10 +10,10 @@
         height: 160px;   
     }
     .upperright nav ul{
-        gap: 4px;
+        gap: 5px;
     }
     .upperright nav ul li a{
-        font-size: 4px;
+        font-size: 3.5px;
     }
     header button{
         border-top: 2px solid #868181;

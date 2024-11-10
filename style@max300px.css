@@ -1,0 +1,26 @@
+@media(max-width:300px)
+{
+    body{
+        overflow: scroll;
+    }
+    .upperright nav ul {
+        gap: 5px;
+    }
+    .upperright nav ul li a{
+        font-size: 3px;
+    }
+    header button{
+        border-top: 1.5px solid #868181;
+        border-left: 1.5px solid #868181;
+        font-size: 4.5px;
+        padding: 2.5px 8px;
+        border-radius: 2.5px;
+    }
+    .onear-logo img{
+        height: 20px;
+    }
+    .lowercase{
+        padding: 10px 30px;
+    }
+
+}

@@ -4,12 +4,13 @@
     /* No Changes */
     
     /* Header */
-    [alt="Beats Logo"]{
-        height: 15px;
-    }
+    
     [alt="Main Image"]
     {
         height: 160px;   
+    }
+    .upperright nav ul{
+        gap: 4px;
     }
     .upperright nav ul li a{
         font-size: 4px;

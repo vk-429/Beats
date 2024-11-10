@@ -10,7 +10,7 @@
         height: 160px;   
     }
     .upperright nav ul{
-        gap: 5px;
+        gap: 10px;
     }
     .upperright nav ul li a{
         font-size: 3.5px;
